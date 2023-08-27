@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Capital City","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Open Scene","order":1,"parentId":0,"scrollX":772,"scrollY":490},
+{"id":3,"expanded":false,"name":"Tavern","order":3,"parentId":1,"scrollX":772,"scrollY":490},
+{"id":4,"expanded":false,"name":"Well Dungeon","order":4,"parentId":1,"scrollX":761.3333333333334,"scrollY":1260.6666666666667},
+{"id":5,"expanded":true,"name":"INN","order":5,"parentId":1,"scrollX":772,"scrollY":490},
+{"id":6,"expanded":false,"name":"1F","order":6,"parentId":5,"scrollX":772,"scrollY":490},
+{"id":7,"expanded":false,"name":"Fortune Lady","order":7,"parentId":1,"scrollX":772,"scrollY":490},
+{"id":8,"expanded":false,"name":"Monastery","order":8,"parentId":1,"scrollX":772,"scrollY":490},
+{"id":9,"expanded":false,"name":"Castle","order":9,"parentId":1,"scrollX":761.3333333333334,"scrollY":1106},
+{"id":10,"expanded":true,"name":"Outskirts","order":10,"parentId":0,"scrollX":772,"scrollY":490},
+{"id":11,"expanded":false,"name":"Island 1","order":11,"parentId":10,"scrollX":772,"scrollY":490},
+{"id":12,"expanded":false,"name":"Island 2","order":12,"parentId":10,"scrollX":772,"scrollY":490},
+{"id":13,"expanded":false,"name":"Island 3","order":13,"parentId":10,"scrollX":772,"scrollY":490},
+{"id":14,"expanded":false,"name":"Credits","order":14,"parentId":0,"scrollX":772,"scrollY":490}
+]
